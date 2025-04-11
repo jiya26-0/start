@@ -1,4 +1,4 @@
 # start
 Using git for flutter
 <br>
-Author - jiya aggarwal
+Author - jiya aggarwal and flutter
